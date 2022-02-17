@@ -1,0 +1,1 @@
+{!! $material->meh_properties !!}

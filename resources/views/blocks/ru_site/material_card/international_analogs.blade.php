@@ -1,0 +1,1 @@
+{!! $material->international_analogs !!}

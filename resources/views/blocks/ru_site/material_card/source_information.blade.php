@@ -1,0 +1,1 @@
+{!! $material->sources_information !!}

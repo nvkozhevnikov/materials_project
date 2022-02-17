@@ -1,0 +1,1 @@
+{!! $material->vidy_postavki !!}
